@@ -1,6 +1,6 @@
 {
   "name": "react-beautiful-date",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "ssh://git@github.com/shoota/react-beautiful-date.git",
   "author": "Shoota Kumano <shoota.dev@gmail.com>",
